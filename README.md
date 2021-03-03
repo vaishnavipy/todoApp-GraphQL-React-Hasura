@@ -7,7 +7,7 @@ To build our full-stack app, I've used the below technologies.
 **Hasura**: Set up an auto-generated GraphQL API on top of a Postgres database.
 **Heroku**: To host our database.
 **Apollo Client** : Client for our GrapQL API , which ,makes fetching data easier with its hooks.
-![Todo]https://user-images.githubusercontent.com/8887734/109749730-d4cb2900-7ba0-11eb-8ff0-f84b6c462707.jpg)
+![Todo](https://user-images.githubusercontent.com/8887734/109749730-d4cb2900-7ba0-11eb-8ff0-f84b6c462707.jpg)
 
  
 
